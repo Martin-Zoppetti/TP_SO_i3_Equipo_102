@@ -14,8 +14,9 @@ e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
 e-No surgieron problemas dado que se pudo mergear Fast-Forward
 f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
 f-git pull Zoppetti
-echo "Matias Bernardis" > beta.txt
-cat ifconfig >> beta.txt
+echo "Matias Bernardis" >> beta.txt
+fconfig >> beta.txt
+echo "00:07" >> beta.txt
 git add .
 git commit -m "Modifico archivo beta.txt"
 git push
