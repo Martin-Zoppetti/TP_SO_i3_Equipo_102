@@ -20,3 +20,14 @@ echo "00:07" >> beta.txt
 git add .
 git commit -m "Modifico archivo beta.txt"
 git push
+
+g-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido? 
+g-
+git fetch
+git checkout Zoppetti
+echo "Fernando Dieguez" >> beta.txt
+ifconfig >> beta.txt
+echo "00:13" >> beta.txt
+git add .
+git commit -m "modifico archivo beta.txt"
+git push
