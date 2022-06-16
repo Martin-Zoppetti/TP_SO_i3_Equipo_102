@@ -1,0 +1,10 @@
+a-¿Como queda El master después de estos cambios?
+a- la rama main queda sincronizada con los cambios de todas ramas
+b-¿Beta pudo ver todos los cambios que se realizaron?
+b- Beta pudo ver todos los cambios ya que fue el encargado de los merge
+c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge ?
+c-comandos:
+git pull
+git checkout main
+git merge Bernardis
+git push
